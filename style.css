@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+    text-align: center;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+/* ==================  Завдання 1 =================*/
+
+/* .red-color{
+    background-color: red;
+}
+
+.white-color{
+    background-color: white;
+}
+
+.green-color {
+    background-color: green;
+} */
+
+
+/* ===================== Завдання 2 ======================= */
+
+/* h1 {
+    color: greenyellow;
+
+    margin-bottom: 20px;
+}
+
+form {
+    display: inline-block;
+
+    background-color: #fff;
+   
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ddd;
+
+    padding: 20px;    
+}
+
+label {
+    display: block;
+
+    font-size: 16px;
+
+    margin: 10px 0 5px;
+    
+}
+
+input {    
+    width: 90%;
+
+    font-size: 14px;
+    
+    border: 1px solid #ccc;
+    border-radius: 10px;    
+
+    padding: 10px;
+    margin-bottom: 10px;
+} 
+
+button {
+    padding: 10px 20px;
+    background-color: greenyellow;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 30px;
+} */
+
+
+/* ========================== Завдання 3 ====================== */
+
+.btn {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+
+    border: none;
+    border-radius: 30px;
+
+
+    background-color: blueviolet;
+    color: #000;
+
+    margin: 20px auto;
+    padding: 10px 30px;
+
+    cursor: pointer;
+}
+
+.photo {
+    margin: 50px auto;
+    display: block;
+}
+
+.photo-none {
+    display: none;
+}
+
